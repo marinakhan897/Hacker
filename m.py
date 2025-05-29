@@ -622,21 +622,32 @@ logo ="""\033[1;37mWELCOME TO MARINA COMMAND
                \033[1;39mMARINE \033[1;35mKHAN \033[1;36m🩷🪽
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[0;92m
-   \033[1;31m.███╗   ███╗██╗  ██╗███╗   ██╗
-   \033[1;32m.████╗ ████║██║ ██╔╝████╗  ██║
-   \033[1;33m.██╔████╔██║█████╔╝ ██╔██╗ ██║
-   \033[1;34m.██║╚██╔╝██║██╔═██╗ ██║╚██╗██║
-   \033[1;35m.██║ ╚═╝ ██║██║  ██╗██║ ╚████║
-   \033[1;36m.╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+   \
+     \
+                                   .::!!!!!!!:.
+  .!!!!!:.                        .:!!!!!!!!!!!!
+  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
+      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
+      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
+      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
+      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
+        "*$bd$$$$      '*$$$$$$$$$$$o+#"
+             """"          """""""
+      __  __            _               _    _            _
+     |  \/  |          (_)             | |  | |          | |
+     | \  / | __ _ _ __ _ _ __   __ _  | |__| | __ _  ___| | _____ _ __
+     | |\/| |/ _` | '__| | '_ \ / _` | |  __  |/ _` |/ __| |/ / _ \ '__|
+     | |  | | (_| | |  | | | | | (_| | | |  | | (_| | (__|   <  __/ |
+     |_|  |_|\__,_|_|  |_|_| |_|\__,_| |_|  |_|\__,_|\___|_|\_\___|_|\
  
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;39m━▷ \033[0;91m𝙊𝙒𝙉𝙀𝙍    \033[1;39m◈✙◈\033[1;33m MARINA KHAN
-\033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈     \033[1;39m◈✙◈\033[1;31m TEAM OF ATF
+\033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈     \033[1;39m◈✙◈\033[1;31m OWNER OF IEI 
 \033[1;39m━▷ \033[0;91m𝙔𝙊𝙐𝙏𝙐𝘽𝙀  \033[1;39m◈✙◈ \033[1;32mMARINA TRICKER
 \033[1;39m━▷ \033[0;91m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 \033[1;39m◈✙◈ \033[1;33mfb.com/gamerqueen3632
-\033[1;39m━▷ \033[0;91m𝙁𝘽 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;34mAll Tricks Zone 
+\033[1;39m━▷ \033[0;91m𝙁𝘽 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;34mMarina Tricks Zone 
 \033[1;39m━▷ \033[0;91m𝙎𝘼𝙏𝙐𝙏𝘼𝙎  \033[1;39m◈✙◈ \033[0;92mFREE AND ENJOY
-\033[1;39m━▷ \033[0;91m𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;39m◈✙◈ \033[1;37m0.1
+\033[1;39m━▷ \033[0;91m𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;39m◈✙◈ \033[1;37m9.0.1
 \033[1;39m━▷ \033[1;36m𝙁𝙀𝙀𝙇 𝙏𝙃𝙀 𝙋𝙊𝙒𝙀𝙍 𝙊𝙁 𝙈𝘼𝙍𝙄𝙉𝘼 𝙊𝙒𝙉𝙀𝙍
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●"""
 
@@ -660,10 +671,10 @@ def main():
 		exit()
 	elif baloch in ["2", "02"]:
 			print("    CHAL BAGH 🤭")
-			os.system("xdg-open https://chat.whatsapp.com/HBBWmgTmpNl7OvG2MCpQtR")
+			os.system("xdg-open https://chat.whatsapp.com/)
 			exit()
 	elif baloch in ["1", "01"]:
-			os.system("xdg-open https://youtube.com/@chandtricker?si=BFwhJyxOUZTIDSpk")
+			os.system("xdg-open https://youtube.com/@marinatricker?si=EgOeA57JQUQmsov5occomccocomccomcc=BFwhJyxOUZTIDSpBFwhJyxOUZTIDBFwhJyxOUZTIDSpBFwhJyxOUZTBFwhJyxOUZTIDSpBFwhJyxOUZTIDBFwhJyxOUZTOUBFwhJyxOUZTIDSpBFwhJyxOUZTIDBFwhJyxOUZTIDSpBFwhJyxOUZTBFwhJyxOUZTIDSpBFwhJyxOUZTIDBFwhJyxOUZTIDSpBFwhJyx")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;37m    Type Your Channel Name")
